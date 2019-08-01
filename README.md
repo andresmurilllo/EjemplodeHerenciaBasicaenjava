@@ -1,0 +1,2 @@
+# EjemplodeHerenciaBasicaenjava
+herencia
